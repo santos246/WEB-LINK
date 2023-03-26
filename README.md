@@ -25,7 +25,7 @@
 
 
 
-<FONT SIZE=+2>Letra maior</FONT>
+<FONT SIZE=+3>Letra maior</FONT>
 
 <h1 style="font-size:150%">Um título</h1>
 
