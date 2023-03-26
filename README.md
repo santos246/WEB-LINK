@@ -1,5 +1,3 @@
-<meta charset="utf-8"><!DOCTYPE html><html lang="pt-br">
-
 # WEB-LINK
 
 
@@ -80,4 +78,3 @@ Sites externos de (De outros sites).
 
 
 
-</body></html>
