@@ -46,10 +46,9 @@ Exemplo carta
 
 <a href="https://raw.githubusercontent.com/santos246/WEB-LINK/main/Exemplo%20carta.html" target="_blank">Exemplo carta</a>.
 <!------------------------------------------------------>
-
 Oração a São Miguel Arcanjo
 
-<a href="Oração a São Miguel Arcanjo.html" target="_blank">Oração a São Miguel Arcanjo</a>.
+<a href="https://santos246.github.io/WEB-LINK/Ora%C3%A7%C3%A3o%20a%20S%C3%A3o%20Miguel%20Arcanjo.html" target="_blank">Oração a São Miguel Arcanjo</a>.
 <!------------------------------------------------------>
 
 
