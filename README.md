@@ -35,7 +35,7 @@ Sites externos de (De outros sites).
 <!------------------------------------------------------>
 <a href="https://raw.githubusercontent.com/santos246/WEB-LINK/main/TABELA.html" target="_blank">3 - Exemplo de tabela</a>.
 <!------------------------------------------------------>
-<a href="LINK🔴" target="_blank">OUTRAABA🔴</a>.
+style="
 <!------------------------------------------------------>
 <a href="LINK🔴" target="_blank">OUTRAABA🔴</a>.
 <!------------------------------------------------------>
