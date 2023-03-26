@@ -23,15 +23,15 @@ Sites internos.
 Sites externos de (De outros sites).
 
 <!------------------------------------------------------>
-Mudar cor do texto html
+Mudar cor do texto html<br/>
 <a href="https://www.gsigma.ufsc.br/~popov/aulas/bd1/progweb/basicow95/fontes.html" target="_blank">1 - Mudar cor do texto html.</a>
 <!------------------------------------------------------>
-Cor d pagina (fundo)
+Cor d pagina (fundo)<br/>
 <a href="https://www.htmlprogressivo.net/2013/08/bgcolor-Como-mudar-a-cor-de-fundo-de-um-site-A-tabela-de-cores.html" target="_blank">1 - Cor d pagina (fundo) html.</a>
 <!------------------------------------------------------>
 <a href="https://pt.wikihow.com/Configurar-Cores-de-Fundo-em-HTML" target="_blank">2 - Cor d pagina (fundo) html 2.</a>
 <!------------------------------------------------------>
-Exemplo de tabela
+Exemplo de tabela<br/>
 <a href="TABELA.txt" target="_blank">1 - Exemplo de tabela txt.</a>
 <!------------------------------------------------------>
 <a href="TABELA.html" target="_blank">2 - Exemplo de tabela html</a>.
@@ -39,6 +39,7 @@ Exemplo de tabela
 <a href="https://raw.githubusercontent.com/santos246/WEB-LINK/main/TABELA.html" target="_blank">3 - Exemplo de tabela</a>.
 <!------------------------------------------------------>
 
+<br/>
 <a href="LINK🔴" target="_blank">OUTRAABA🔴</a>.
 <!------------------------------------------------------>
 <a href="LINK🔴" target="_blank">OUTRAABA🔴</a>.
@@ -47,6 +48,8 @@ Exemplo de tabela
 <!------------------------------------------------------>
 <a href="LINK🔴" target="_blank">OUTRAABA🔴</a>.
 <!------------------------------------------------------>
+
+<br/>
 <a href="LINK🔴" target="_blank">OUTRAABA🔴</a>.
 <!------------------------------------------------------>
 <a href="LINK🔴" target="_blank">OUTRAABA🔴</a>.
