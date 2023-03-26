@@ -44,7 +44,6 @@ Exemplo de tabela<br/>
 <!------------------------------------------------------>
 Exemplo carta
 
-<br/>
 <a href="https://raw.githubusercontent.com/santos246/WEB-LINK/main/Exemplo%20carta.html" target="_blank">Exemplo carta</a>.
 <!------------------------------------------------------>
 
