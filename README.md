@@ -45,8 +45,10 @@ Exemplo de tabela<br/>
 Exemplo carta
 
 <br/>
-<a href="Exemplo carta" target="_blank">Exemplo carta</a>.
+<a href="https://raw.githubusercontent.com/santos246/WEB-LINK/main/Exemplo%20carta.html" target="_blank">Exemplo carta</a>.
 <!------------------------------------------------------>
+
+
 <a href="LINK🔴" target="_blank">OUTRAABA🔴</a>.
 <!------------------------------------------------------>
 <a href="LINK🔴" target="_blank">OUTRAABA🔴</a>.
