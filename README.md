@@ -23,13 +23,13 @@ Sites internos.
 Sites externos de (De outros sites).
 
 <!------------------------------------------------------>
-<a href="https://www.gsigma.ufsc.br/~popov/aulas/bd1/progweb/basicow95/fontes.html" target="_blank">1 - Mudar cor do texto html.</a>
+Mudar cor do texto html<a href="https://www.gsigma.ufsc.br/~popov/aulas/bd1/progweb/basicow95/fontes.html" target="_blank">1 - Mudar cor do texto html.</a>
 <!------------------------------------------------------>
-<a href="https://www.htmlprogressivo.net/2013/08/bgcolor-Como-mudar-a-cor-de-fundo-de-um-site-A-tabela-de-cores.html" target="_blank">1 - Cor d pagina (fundo) html.</a>
+Cor d pagina (fundo)<a href="https://www.htmlprogressivo.net/2013/08/bgcolor-Como-mudar-a-cor-de-fundo-de-um-site-A-tabela-de-cores.html" target="_blank">1 - Cor d pagina (fundo) html.</a>
 <!------------------------------------------------------>
 <a href="https://pt.wikihow.com/Configurar-Cores-de-Fundo-em-HTML" target="_blank">2 - Cor d pagina (fundo) html 2.</a>
 <!------------------------------------------------------>
-<a href="TABELA.txt" target="_blank">1 - Exemplo de tabela txt.</a>
+Exemplo de tabela<a href="TABELA.txt" target="_blank">1 - Exemplo de tabela txt.</a>
 <!------------------------------------------------------>
 <a href="TABELA.html" target="_blank">2 - Exemplo de tabela html</a>.
 <!------------------------------------------------------>
