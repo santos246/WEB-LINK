@@ -8,11 +8,11 @@ Sites internos.
 <!------------------------------------------------------>
 <!------------------------------------------------------>
 <a href="https://github.com/santos246/WEB-LINK
-" target="_blank">ESSE SITE (WEB LINK GITHUB)</a>
+" target="_blank">ESSE SITE (WEB LINK GITHUB).</a>
 <!------------------------------------------------------>
-<a href="https://github.com/santos246/WEB-LINK/archive/refs/heads/main.zip" target="_blank">ESSE SITE (DOWNLOADS WEB LINK GITHUB)</a>
+<a href="https://github.com/santos246/WEB-LINK/archive/refs/heads/main.zip" target="_blank">ESSE SITE (DOWNLOADS WEB LINK GITHUB).</a>
 <!------------------------------------------------------>
-<a href="LINK🔴" target="_blank">OUTRAABA🔴</a>
+<a href="LINK🔴" target="_blank">OUTRAABA🔴.</a>
 <!------------------------------------------------------>
 
 
@@ -29,20 +29,20 @@ Sites externos de (De outros sites).
 <!------------------------------------------------------>
 <a href="https://pt.wikihow.com/Configurar-Cores-de-Fundo-em-HTML" target="_blank">Cor d pagina (fundo) html 2.</a>
 <!------------------------------------------------------>
-<a href="TABELA.txt" target="_blank">Tabela em texto.</a>
+<a href="TABELA.txt" target="_blank">Exemplo de tabela.</a>
 <!------------------------------------------------------>
-<a href="LINK🔴" target="_blank">OUTRAABA🔴</a>
+<a href="LINK🔴" target="_blank">OUTRAABA🔴</a>.
 <!------------------------------------------------------>
 
 
 
-<a href="LINK🔴" target="_blank">OUTRAABA🔴</a>
+<a href="LINK🔴" target="_blank">OUTRAABA🔴</a>.
 <!------------------------------------------------------>
-<a href="LINK🔴" target="_blank">OUTRAABA🔴</a>
+<a href="LINK🔴" target="_blank">OUTRAABA🔴</a>.
 <!------------------------------------------------------>
-<a href="LINK🔴" target="_blank">OUTRAABA🔴</a>
+<a href="LINK🔴" target="_blank">OUTRAABA🔴</a>.
 <!------------------------------------------------------>
-<a href="LINK🔴" target="_blank">OUTRAABA🔴</a>
+<a href="LINK🔴" target="_blank">OUTRAABA🔴</a>.
 <!------------------------------------------------------>
 
 
