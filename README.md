@@ -1,3 +1,5 @@
+<meta charset="utf-8"><!DOCTYPE html><html lang="pt-br">
+
 # WEB-LINK
 <!------------------------------------------------------>
 <a href="https://santos246.github.io/WEB-LINK/" target="_blank">ESSE SITE (WEB LINK)</a>
