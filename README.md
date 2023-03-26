@@ -22,7 +22,7 @@ Sites internos.
 
 <HR/>
 
-<h1 style="font-size:150%">ATENÇÃO</h1>
+<h1 style="font-size:150%">SITES EXTERNOS</h1>
 Sites externos de (De outros sites).
 
 <!------------------------------------------------------>
