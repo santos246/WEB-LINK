@@ -46,25 +46,36 @@ Exemplo carta
 
 <a href="https://raw.githubusercontent.com/santos246/WEB-LINK/main/Exemplo%20carta.html" target="_blank">Exemplo carta</a>.
 <!------------------------------------------------------>
+Oração a São Miguel Arcanjo
+
+<a href="LINK🔴" target="_blank">Oração a São Miguel Arcanjo</a>.
+<!------------------------------------------------------>
 
 
 <a href="LINK🔴" target="_blank">OUTRAABA🔴</a>.
 <!------------------------------------------------------>
-<a href="LINK🔴" target="_blank">OUTRAABA🔴</a>.
-<!------------------------------------------------------>
+
+
 <a href="LINK🔴" target="_blank">OUTRAABA🔴</a>.
 <!------------------------------------------------------>
 
 
-<br/>
 <a href="LINK🔴" target="_blank">OUTRAABA🔴</a>.
 <!------------------------------------------------------>
+
+
 <a href="LINK🔴" target="_blank">OUTRAABA🔴</a>.
 <!------------------------------------------------------>
+
+
 <a href="LINK🔴" target="_blank">OUTRAABA🔴</a>.
 <!------------------------------------------------------>
+
+
 <a href="LINK🔴" target="_blank">OUTRAABA🔴</a>.
 <!------------------------------------------------------>
+
+
 <a href="LINK🔴" target="_blank">OUTRAABA🔴</a>.
 <!------------------------------------------------------>
 
