@@ -26,11 +26,27 @@ Sites internos.
 Sites externos de (De outros sites).
 
 <!------------------------------------------------------>
+<a href="https://www.gsigma.ufsc.br/~popov/aulas/bd1/progweb/basicow95/fontes.html" target="_blank">Mudar cor do texto html</a>
+<!------------------------------------------------------>
+<a href="LINK🔴" target="_blank">OUTRAABA🔴</a>
+<!------------------------------------------------------>
+<a href="LINK🔴" target="_blank">OUTRAABA🔴</a>
+<!------------------------------------------------------>
 <a href="LINK🔴" target="_blank">OUTRAABA🔴</a>
 <!------------------------------------------------------>
 <a href="LINK🔴" target="_blank">OUTRAABA🔴</a>
 <!------------------------------------------------------>
 
+
+
+<a href="LINK🔴" target="_blank">OUTRAABA🔴</a>
+<!------------------------------------------------------>
+<a href="LINK🔴" target="_blank">OUTRAABA🔴</a>
+<!------------------------------------------------------>
+<a href="LINK🔴" target="_blank">OUTRAABA🔴</a>
+<!------------------------------------------------------>
+<a href="LINK🔴" target="_blank">OUTRAABA🔴</a>
+<!------------------------------------------------------>
 
 
 
