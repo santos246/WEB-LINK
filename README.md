@@ -10,7 +10,7 @@ Sites internos.
 <a href="https://github.com/santos246/WEB-LINK
 " target="_blank">ESSE SITE (WEB LINK GITHUB)</a>
 <!------------------------------------------------------>
-<a href="LINK🔴" target="_blank">OUTRAABA🔴</a>
+<a href="https://github.com/santos246/WEB-LINK/archive/refs/heads/main.zip" target="_blank">ESSE SITE (DOWNLOADS WEB LINK GITHUB)</a>
 <!------------------------------------------------------>
 <a href="LINK🔴" target="_blank">OUTRAABA🔴</a>
 <!------------------------------------------------------>
