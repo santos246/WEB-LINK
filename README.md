@@ -48,7 +48,7 @@ Exemplo carta
 <!------------------------------------------------------>
 Oração a São Miguel Arcanjo
 
-<a href="LINK🔴" target="_blank">Oração a São Miguel Arcanjo</a>.
+<a href="Oração a São Miguel Arcanjo.html" target="_blank">Oração a São Miguel Arcanjo</a>.
 <!------------------------------------------------------>
 
 
