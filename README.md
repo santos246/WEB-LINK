@@ -13,7 +13,7 @@
 <!------------------------------------------------------>
 
 
-<FONT SIZE=+8><FONT COLOR="RED">ATENÇÃO</FONT></FONT>
+<h1 style="font-size:150%">ATENÇÃO</h1>
 
 
 <!------------------------------------------------------>
@@ -23,11 +23,7 @@
 <!------------------------------------------------------>
 
 
-<FONT COLOR="#rrggbb">Texto</FONT>
 
-<FONT SIZE=+3>Letra maior</FONT>
-
-<h1 style="font-size:150%">Um título</h1>
 
 
 
