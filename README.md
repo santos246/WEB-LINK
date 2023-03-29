@@ -50,9 +50,9 @@ Oração a São Miguel Arcanjo
 
 <a href="https://santos246.github.io/WEB-LINK/Ora%C3%A7%C3%A3o%20a%20S%C3%A3o%20Miguel%20Arcanjo.html" target="_blank">Oração a São Miguel Arcanjo</a>.
 <!------------------------------------------------------>
+MEUS PENSAMENTOS
 
-
-<a href="LINK🔴" target="_blank">OUTRAABA🔴</a>.
+<a href="MEUS PENSAMENTOS.docx" target="_blank">MEUS PENSAMENTOS</a>.
 <!------------------------------------------------------>
 
 
