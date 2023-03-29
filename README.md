@@ -52,11 +52,11 @@ Oração a São Miguel Arcanjo -
 <!------------------------------------------------------>
 MEUS PENSAMENTOS - 
 
-<a href="MEUS PENSAMENTOS.pdf" target="_blank">MEUS PENSAMENTOS</a>.
+<a href="MEUS PENSAMENTOS.pdf" target="_blank">MEUS PENSAMENTOS.pdf</a>.
 <!------------------------------------------------------>
 
 
-<a href="LINK🔴" target="_blank">OUTRAABA🔴</a>.
+<a href="https://santos246.github.io/WEB-LINK/MEUS%20PENSAMENTOS.pdf" target="_blank">MEUS PENSAMENTOS link pdf</a>.
 <!------------------------------------------------------>
 
 
