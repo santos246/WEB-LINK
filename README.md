@@ -52,7 +52,7 @@ Oração a São Miguel Arcanjo
 <!------------------------------------------------------>
 MEUS PENSAMENTOS
 
-<a href="MEUS PENSAMENTOS.mth" target="_blank">MEUS PENSAMENTOS</a>.
+<a href="MEUS PENSAMENTOS.htm" target="_blank">MEUS PENSAMENTOS</a>.
 <!------------------------------------------------------>
 
 
