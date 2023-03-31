@@ -64,7 +64,11 @@ MEUS PENSAMENTOS -
 <!------------------------------------------------------>
 
 
-<a href=".html.txt" target="_blank">".html" Exemplo início LINK</a>.
+<a href="https://raw.githubusercontent.com/santos246/WEB-LINK/main/.html.txt" target="_blank">".html" Exemplo início LINK</a>.
+<!------------------------------------------------------>
+
+
+<a href=".html.txt" target="_blank">".html" Exemplo início LINK 2</a>.
 <!------------------------------------------------------>
 
 
