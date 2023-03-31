@@ -60,7 +60,7 @@ MEUS PENSAMENTOS -
 <!------------------------------------------------------>
 
 
-<a href=".html" target="_blank">".html" Exemplo início</a>.
+<a href=".html.txt" target="_blank">".html" Exemplo início</a>.
 <!------------------------------------------------------>
 
 
