@@ -60,7 +60,7 @@ MEUS PENSAMENTOS -
 <!------------------------------------------------------>
 
 
-<a href="LINK🔴" target="_blank">OUTRAABA🔴</a>.
+<a href=".html" target="_blank">".html" Exemplo início</a>.
 <!------------------------------------------------------>
 
 
